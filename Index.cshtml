@@ -1,0 +1,30 @@
+﻿@page
+@model IndexModel
+
+<h1>Week 4 Lab 2 Assignment</h1>
+
+<form method="post">
+
+    <label>Enter your name:</label><br />
+    <input type="text" name="UserName" /><br /><br />
+
+    <label>Choose your favourite programming language:</label><br />
+    <select name="Language">
+        <option value="">-- Select a language --</option>
+        <option value="C#">C#</option>
+        <option value="Java">Java</option>
+        <option value="Python">Python</option>
+    </select>
+
+    <br /><br />
+
+    <button type="submit">Submit</button>
+
+</form>
+
+<br />
+
+@if (Model.Message != null)
+{
+    <p><strong>@Model.Message</strong></p>
+}
