@@ -1,1 +1,1 @@
-# Responsive Application 
+# Responsive Application Development (ITEC634)
