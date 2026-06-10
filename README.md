@@ -7,3 +7,4 @@ Throughout the semester, I developed responsive web, mobile, and cross-platform 
 The course provided practical experience in modern application development, covering web technologies, mobile development, asynchronous communication, responsive design, and API integration.
 
 ---
+## Technologies Used
