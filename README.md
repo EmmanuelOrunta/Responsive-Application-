@@ -12,3 +12,4 @@ The course provided practical experience in modern application development, cove
 ### Web Development
 - ASP.NET Core
 - Razor Pages
+- ASP.NET MVC
