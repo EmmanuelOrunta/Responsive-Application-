@@ -10,3 +10,4 @@ The course provided practical experience in modern application development, cove
 ## Technologies Used
 
 ### Web Development
+- ASP.NET Core
