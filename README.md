@@ -13,4 +13,4 @@ The course provided practical experience in modern application development, cove
 - ASP.NET Core
 - Razor Pages
 - ASP.NET MVC
-- - Bootstrap
+- Bootstrap
