@@ -15,3 +15,4 @@ The course provided practical experience in modern application development, cove
 - ASP.NET MVC
 - Bootstrap
 - HTML5
+- CSS3
