@@ -17,3 +17,4 @@ The course provided practical experience in modern application development, cove
 - HTML5
 - CSS3
 - JavaScript
+- AJAX
