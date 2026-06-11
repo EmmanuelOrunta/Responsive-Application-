@@ -16,3 +16,4 @@ The course provided practical experience in modern application development, cove
 - Bootstrap
 - HTML5
 - CSS3
+- JavaScript
