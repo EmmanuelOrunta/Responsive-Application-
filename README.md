@@ -18,3 +18,4 @@ The course provided practical experience in modern application development, cove
 - CSS3
 - JavaScript
 - AJAX
+- HTMX
