@@ -19,3 +19,5 @@ The course provided practical experience in modern application development, cove
 - JavaScript
 - AJAX
 - HTMX
+
+### Mobile Development
