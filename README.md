@@ -23,4 +23,4 @@ The course provided practical experience in modern application development, cove
 ### Mobile Development
 - Kotlin
 - Jetpack Compose
-- - Android Studio
+- Android Studio
