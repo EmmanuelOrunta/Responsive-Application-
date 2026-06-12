@@ -24,3 +24,5 @@ The course provided practical experience in modern application development, cove
 - Kotlin
 - Jetpack Compose
 - Android Studio
+- - Android Emulator
+
