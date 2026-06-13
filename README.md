@@ -27,3 +27,4 @@ The course provided practical experience in modern application development, cove
 - Android Emulator
 
 ### Cross-Platform Development
+- .NET MAUI
