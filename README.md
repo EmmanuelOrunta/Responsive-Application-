@@ -28,4 +28,4 @@ The course provided practical experience in modern application development, cove
 
 ### Cross-Platform Development
 - .NET MAUI
-- - C#
+- C#
