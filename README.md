@@ -30,4 +30,4 @@ The course provided practical experience in modern application development, cove
 - .NET MAUI
 - C#
 - XAML
-- - REST APIs
+- REST APIs
