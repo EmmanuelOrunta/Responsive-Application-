@@ -34,4 +34,4 @@ The course provided practical experience in modern application development, cove
 
 ### Tools
 - Visual Studio Code
-- - Android Studio
+- Android Studio
