@@ -33,3 +33,4 @@ The course provided practical experience in modern application development, cove
 - REST APIs
 
 ### Tools
+- Visual Studio Code
