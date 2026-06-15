@@ -36,4 +36,4 @@ The course provided practical experience in modern application development, cove
 - Visual Studio Code
 - Android Studio
 - .NET CLI
-- - Git
+- Git
