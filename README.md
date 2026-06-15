@@ -38,3 +38,5 @@ The course provided practical experience in modern application development, cove
 - .NET CLI
 - Git
 - GitHub
+
+---
