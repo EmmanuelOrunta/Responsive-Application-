@@ -44,4 +44,4 @@ The course provided practical experience in modern application development, cove
 
 | Lab | Project | Description |
 |------|----------|-------------|
-| 1 |
+| 1 | ASP.NET Hello World Application
