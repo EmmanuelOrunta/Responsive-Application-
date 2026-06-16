@@ -44,3 +44,4 @@ The course provided practical experience in modern application development, cove
 
 | Lab | Project | Description |
 |------|----------|-------------|
+| 1 |
