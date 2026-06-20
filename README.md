@@ -50,3 +50,5 @@ The course provided practical experience in modern application development, cove
 | 4 | AJAX & HTMX Application | Implemented asynchronous communication using Fetch API and HTMX without full page reloads. |
 | 5 | Android TODO Application | Built a native Android task management application using Kotlin and Jetpack Compose. |
 | 6 | Cross-Platform Weather Application | Developed a .NET MAUI application that retrieves live weather data from the OpenWeatherMap API. |
+
+---
