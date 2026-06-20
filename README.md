@@ -52,3 +52,5 @@ The course provided practical experience in modern application development, cove
 | 6 | Cross-Platform Weather Application | Developed a .NET MAUI application that retrieves live weather data from the OpenWeatherMap API. |
 
 ---
+
+## Lab 1 – ASP.NET Hello World Application
