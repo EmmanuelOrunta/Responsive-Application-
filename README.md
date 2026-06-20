@@ -54,3 +54,5 @@ The course provided practical experience in modern application development, cove
 ---
 
 ## Lab 1 – ASP.NET Hello World Application
+
+### Objectives
