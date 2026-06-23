@@ -67,3 +67,5 @@ The course provided practical experience in modern application development, cove
 - Command-line development workflow
 
 ---
+
+## Lab 2 – ASP.NET Web Form Application
