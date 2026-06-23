@@ -69,3 +69,5 @@ The course provided practical experience in modern application development, cove
 ---
 
 ## Lab 2 – ASP.NET Web Form Application
+
+### Objectives
