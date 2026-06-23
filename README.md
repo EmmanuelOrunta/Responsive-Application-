@@ -58,3 +58,4 @@ The course provided practical experience in modern application development, cove
 ### Objectives
 - Install and configure the .NET SDK
 - Verify installation using the command line
+- - Create and run a basic ASP.NET web application
