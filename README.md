@@ -61,3 +61,4 @@ The course provided practical experience in modern application development, cove
 - Create and run a basic ASP.NET web application
 
 ### Skills Acquired
+- .NET environment setup
