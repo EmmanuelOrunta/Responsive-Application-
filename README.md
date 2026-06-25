@@ -74,3 +74,4 @@ The course provided practical experience in modern application development, cove
 - Create an ASP.NET Razor Pages application
 - Handle user input using forms
 - Process data using HTTP POST requests
+- - Display dynamic content on the same page
