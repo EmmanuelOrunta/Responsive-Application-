@@ -72,3 +72,4 @@ The course provided practical experience in modern application development, cove
 
 ### Objectives
 - Create an ASP.NET Razor Pages application
+- Handle user input using forms
