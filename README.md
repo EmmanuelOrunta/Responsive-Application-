@@ -77,3 +77,4 @@ The course provided practical experience in modern application development, cove
 - Display dynamic content on the same page
 
 ### Features
+- User name input
