@@ -81,3 +81,5 @@ The course provided practical experience in modern application development, cove
 - Programming language selection
 - Dynamic result display
 - Server-side processing using C#
+
+### Skills Acquired
