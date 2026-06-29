@@ -83,3 +83,4 @@ The course provided practical experience in modern application development, cove
 - Server-side processing using C#
 
 ### Skills Acquired
+- Razor Pages development
