@@ -86,4 +86,4 @@ The course provided practical experience in modern application development, cove
 - Razor Pages development
 - Model binding
 - HTTP POST handling
-- - Backend processing
+- Backend processing
