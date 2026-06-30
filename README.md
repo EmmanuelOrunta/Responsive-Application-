@@ -89,3 +89,5 @@ The course provided practical experience in modern application development, cove
 - Backend processing
 
 ---
+
+## Lab 3 – Multi-Page Razor Pages Application
