@@ -85,4 +85,4 @@ The course provided practical experience in modern application development, cove
 ### Skills Acquired
 - Razor Pages development
 - Model binding
-- - HTTP POST handling
+- HTTP POST handling
