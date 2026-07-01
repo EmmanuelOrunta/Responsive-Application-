@@ -93,3 +93,4 @@ The course provided practical experience in modern application development, cove
 ## Lab 3 – Multi-Page Razor Pages Application
 
 ### Objectives
+- Build a structured multi-page application
