@@ -98,3 +98,4 @@ The course provided practical experience in modern application development, cove
 - Apply responsive design principles
 
 ### Features
+- Home Page
