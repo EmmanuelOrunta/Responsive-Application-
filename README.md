@@ -96,3 +96,5 @@ The course provided practical experience in modern application development, cove
 - Build a structured multi-page application
 - Implement navigation using shared layouts
 - Apply responsive design principles
+
+### Features
