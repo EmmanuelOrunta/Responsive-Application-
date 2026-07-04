@@ -101,3 +101,4 @@ The course provided practical experience in modern application development, cove
 - Home Page
 - Product Catalog Page
 - Product Details Page
+- - About Page
