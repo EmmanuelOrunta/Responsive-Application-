@@ -109,4 +109,4 @@ The course provided practical experience in modern application development, cove
 - Razor Pages routing
 - Responsive web design
 - Shared layouts
-- - Navigation management
+- Navigation management
