@@ -106,3 +106,4 @@ The course provided practical experience in modern application development, cove
 - Bootstrap navigation
 
 ### Skills Acquired
+- Razor Pages routing
