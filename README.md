@@ -104,3 +104,5 @@ The course provided practical experience in modern application development, cove
 - About Page
 - Dynamic URL routing
 - Bootstrap navigation
+
+### Skills Acquired
