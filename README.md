@@ -107,3 +107,4 @@ The course provided practical experience in modern application development, cove
 
 ### Skills Acquired
 - Razor Pages routing
+- - Responsive web design
