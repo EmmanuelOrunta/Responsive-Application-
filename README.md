@@ -114,3 +114,5 @@ The course provided practical experience in modern application development, cove
 ---
 
 ## Lab 4 – Asynchronous Web Application Using AJAX and HTMX
+
+### Objectives
