@@ -117,4 +117,4 @@ The course provided practical experience in modern application development, cove
 
 ### Objectives
 - Implement asynchronous communication
-- - Improve user experience through dynamic updates
+- Improve user experience through dynamic updates
