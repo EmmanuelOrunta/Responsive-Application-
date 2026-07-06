@@ -112,4 +112,5 @@ The course provided practical experience in modern application development, cove
 - Navigation management
 
 ---
+
 ## Lab 4 – Asynchronous Web Application Using AJAX and HTMX
