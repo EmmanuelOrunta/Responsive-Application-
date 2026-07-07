@@ -123,4 +123,4 @@ The course provided practical experience in modern application development, cove
 ### Features
 - AJAX implementation
 - Fetch API integration
-- - HTMX integration
+- HTMX integration
