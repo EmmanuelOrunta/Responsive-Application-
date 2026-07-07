@@ -119,3 +119,4 @@ The course provided practical experience in modern application development, cove
 - Implement asynchronous communication
 - Improve user experience through dynamic updates
 - Explore low-JavaScript web development approaches
+### Features
