@@ -121,3 +121,4 @@ The course provided practical experience in modern application development, cove
 - Explore low-JavaScript web development approaches
 
 ### Features
+- AJAX implementation
