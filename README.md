@@ -126,4 +126,4 @@ The course provided practical experience in modern application development, cove
 - HTMX integration
 - Dynamic content updates
 - Loading indicators
-- - Partial page rendering
+- Partial page rendering
