@@ -125,4 +125,4 @@ The course provided practical experience in modern application development, cove
 - Fetch API integration
 - HTMX integration
 - Dynamic content updates
-- - Loading indicators
+- Loading indicators
