@@ -127,3 +127,5 @@ The course provided practical experience in modern application development, cove
 - Dynamic content updates
 - Loading indicators
 - Partial page rendering
+
+### Skills Acquired
