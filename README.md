@@ -132,4 +132,4 @@ The course provided practical experience in modern application development, cove
 - Asynchronous programming
 - AJAX
 - HTMX
-- - Client-server communication
+- Client-server communication
