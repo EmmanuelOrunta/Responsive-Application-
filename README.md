@@ -133,4 +133,4 @@ The course provided practical experience in modern application development, cove
 - AJAX
 - HTMX
 - Client-server communication
-- - Browser debugging
+- Browser debugging
