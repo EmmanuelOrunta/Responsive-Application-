@@ -129,3 +129,4 @@ The course provided practical experience in modern application development, cove
 - Partial page rendering
 
 ### Skills Acquired
+- Asynchronous programming
