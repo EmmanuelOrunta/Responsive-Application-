@@ -142,3 +142,4 @@ The course provided practical experience in modern application development, cove
 ### Objectives
 - Develop a native Android application
 - Implement CRUD operations for task management
+- - Explore Jetpack Compose UI development
