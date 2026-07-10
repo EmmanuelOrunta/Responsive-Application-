@@ -138,3 +138,5 @@ The course provided practical experience in modern application development, cove
 ---
 
 ## Lab 5 – Android TODO Application
+
+### Objectives
