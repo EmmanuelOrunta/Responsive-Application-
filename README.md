@@ -146,4 +146,4 @@ The course provided practical experience in modern application development, cove
 
 ### Features
 - Add tasks
-- - Edit tasks
+- Edit tasks
