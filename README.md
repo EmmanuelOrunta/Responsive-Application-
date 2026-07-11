@@ -148,4 +148,4 @@ The course provided practical experience in modern application development, cove
 - Add tasks
 - Edit tasks
 - Delete tasks
-- - Dynamic task list rendering
+- Dynamic task list rendering
