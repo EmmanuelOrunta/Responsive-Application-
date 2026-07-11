@@ -143,3 +143,5 @@ The course provided practical experience in modern application development, cove
 - Develop a native Android application
 - Implement CRUD operations for task management
 - Explore Jetpack Compose UI development
+
+### Features
