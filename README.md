@@ -145,3 +145,4 @@ The course provided practical experience in modern application development, cove
 - Explore Jetpack Compose UI development
 
 ### Features
+- Add tasks
