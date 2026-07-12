@@ -152,3 +152,4 @@ The course provided practical experience in modern application development, cove
 - Mobile-friendly user interface
 
 ### Skills Acquired
+- Android development
