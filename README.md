@@ -150,3 +150,5 @@ The course provided practical experience in modern application development, cove
 - Delete tasks
 - Dynamic task list rendering
 - Mobile-friendly user interface
+
+- ### Skills Acquired
