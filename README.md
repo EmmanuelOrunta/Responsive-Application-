@@ -151,4 +151,4 @@ The course provided practical experience in modern application development, cove
 - Dynamic task list rendering
 - Mobile-friendly user interface
 
-- ### Skills Acquired
+### Skills Acquired
