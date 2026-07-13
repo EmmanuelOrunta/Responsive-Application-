@@ -153,3 +153,4 @@ The course provided practical experience in modern application development, cove
 
 ### Skills Acquired
 - Android development
+- - Kotlin programming
