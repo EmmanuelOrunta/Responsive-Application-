@@ -155,4 +155,4 @@ The course provided practical experience in modern application development, cove
 - Android development
 - Kotlin programming
 - Jetpack Compose
-- - State management
+- State management
