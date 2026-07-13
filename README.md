@@ -156,4 +156,4 @@ The course provided practical experience in modern application development, cove
 - Kotlin programming
 - Jetpack Compose
 - State management
-- - Emulator testing
+- Emulator testing
