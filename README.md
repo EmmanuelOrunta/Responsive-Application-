@@ -159,3 +159,5 @@ The course provided practical experience in modern application development, cove
 - Emulator testing
 
 ---
+
+## Lab 6 – Cross-Platform Weather Application
