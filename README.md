@@ -157,3 +157,5 @@ The course provided practical experience in modern application development, cove
 - Jetpack Compose
 - State management
 - Emulator testing
+
+---
