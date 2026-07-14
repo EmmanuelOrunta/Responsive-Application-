@@ -164,4 +164,4 @@ The course provided practical experience in modern application development, cove
 
 ### Objectives
 - Develop a cross-platform application using .NET MAUI
-- - Consume external REST APIs
+- Consume external REST APIs
