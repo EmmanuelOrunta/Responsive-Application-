@@ -168,3 +168,4 @@ The course provided practical experience in modern application development, cove
 - Deploy applications to Android and Windows
 
 ### Features
+- OpenWeatherMap API integration
