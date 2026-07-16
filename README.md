@@ -161,7 +161,7 @@ The course provided practical experience in modern application development, cove
 ---
 
 ## Lab 6 – Cross-Platform Weather Application
-
+- Weather search by city
 ### Objectives
 - Develop a cross-platform application using .NET MAUI
 - Consume external REST APIs
