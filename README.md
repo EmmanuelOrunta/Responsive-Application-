@@ -166,3 +166,5 @@ The course provided practical experience in modern application development, cove
 - Develop a cross-platform application using .NET MAUI
 - Consume external REST APIs
 - Deploy applications to Android and Windows
+
+### Features
