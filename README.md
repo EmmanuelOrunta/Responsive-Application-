@@ -173,3 +173,5 @@ The course provided practical experience in modern application development, cove
 - Temperature display
 - Weather condition display
 - Error handling and validation
+
+### Skills Acquired
