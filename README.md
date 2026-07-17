@@ -171,3 +171,4 @@ The course provided practical experience in modern application development, cove
 - OpenWeatherMap API integration
 - Weather search by city
 - Temperature display
+- - Weather condition display
