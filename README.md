@@ -170,3 +170,4 @@ The course provided practical experience in modern application development, cove
 ### Features
 - OpenWeatherMap API integration
 - Weather search by city
+- - Temperature display
