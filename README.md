@@ -172,4 +172,4 @@ The course provided practical experience in modern application development, cove
 - Weather search by city
 - Temperature display
 - Weather condition display
-- - Error handling and validation
+- Error handling and validation
