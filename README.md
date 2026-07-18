@@ -176,3 +176,4 @@ The course provided practical experience in modern application development, cove
 
 ### Skills Acquired
 - .NET MAUI development
+- - REST API integration
