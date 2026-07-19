@@ -182,3 +182,5 @@ The course provided practical experience in modern application development, cove
 - Mobile and desktop testing
 
 ---
+
+## Learning Outcomes
