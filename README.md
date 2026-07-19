@@ -179,4 +179,4 @@ The course provided practical experience in modern application development, cove
 - REST API integration
 - JSON processing
 - Cross-platform deployment
-- - Mobile and desktop testing
+- Mobile and desktop testing
