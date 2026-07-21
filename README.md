@@ -187,4 +187,4 @@ The course provided practical experience in modern application development, cove
 By completing this course, I gained practical experience in:
 
 - Building responsive web applications
-- - Designing multi-page web systems
+- Designing multi-page web systems
