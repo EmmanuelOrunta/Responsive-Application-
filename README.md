@@ -189,3 +189,4 @@ By completing this course, I gained practical experience in:
 - Building responsive web applications
 - Designing multi-page web systems
 - Developing asynchronous web applications
+- - Creating native Android applications
