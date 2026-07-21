@@ -185,3 +185,5 @@ The course provided practical experience in modern application development, cove
 
 ## Learning Outcomes
 By completing this course, I gained practical experience in:
+
+- Building responsive web applications
