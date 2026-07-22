@@ -190,4 +190,4 @@ By completing this course, I gained practical experience in:
 - Designing multi-page web systems
 - Developing asynchronous web applications
 - Creating native Android applications
-- - Building cross-platform mobile applications
+- Building cross-platform mobile applications
