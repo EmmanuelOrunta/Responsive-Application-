@@ -191,4 +191,4 @@ By completing this course, I gained practical experience in:
 - Developing asynchronous web applications
 - Creating native Android applications
 - Building cross-platform mobile applications
-- - Consuming REST APIs
+- Consuming REST APIs
