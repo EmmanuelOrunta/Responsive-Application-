@@ -192,4 +192,4 @@ By completing this course, I gained practical experience in:
 - Creating native Android applications
 - Building cross-platform mobile applications
 - Consuming REST APIs
-- - Processing JSON data
+- Processing JSON data
