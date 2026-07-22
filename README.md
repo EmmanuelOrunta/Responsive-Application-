@@ -193,3 +193,4 @@ By completing this course, I gained practical experience in:
 - Building cross-platform mobile applications
 - Consuming REST APIs
 - Processing JSON data
+- - Debugging and troubleshooting applications
