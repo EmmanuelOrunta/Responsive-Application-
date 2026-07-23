@@ -194,3 +194,4 @@ By completing this course, I gained practical experience in:
 - Consuming REST APIs
 - Processing JSON data
 - Debugging and troubleshooting applications
+- - Applying responsive UI/UX principles
