@@ -197,4 +197,4 @@ By completing this course, I gained practical experience in:
 - Applying responsive UI/UX principles
 - Testing applications across multiple platforms
 
-
+---
