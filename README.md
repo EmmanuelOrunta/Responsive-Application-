@@ -195,3 +195,4 @@ By completing this course, I gained practical experience in:
 - Processing JSON data
 - Debugging and troubleshooting applications
 - Applying responsive UI/UX principles
+- - Testing applications across multiple platforms
