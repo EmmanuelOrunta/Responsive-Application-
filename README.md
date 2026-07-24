@@ -206,3 +206,4 @@ Responsive-Application-Development/
 │
 ├── Lab1-HelloWorld/
 ├── Lab2-WebFormApp/
+├── Lab3-MultiPageRazorPages/
