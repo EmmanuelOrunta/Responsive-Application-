@@ -198,3 +198,5 @@ By completing this course, I gained practical experience in:
 - Testing applications across multiple platforms
 
 ---
+
+## Repository Structure
