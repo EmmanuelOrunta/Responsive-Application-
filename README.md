@@ -210,3 +210,4 @@ Responsive-Application-Development/
 ├── Lab4-AJAX-HTMX-App/
 ├── Lab5-Android-Todo-App/
 ├── Lab6-MAUI-Weather-App/
+│
