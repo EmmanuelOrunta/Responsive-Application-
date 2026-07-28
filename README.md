@@ -223,3 +223,5 @@ Responsive-Application-Development/
 ```
 
 ---
+
+## Author
