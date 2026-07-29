@@ -225,3 +225,5 @@ Responsive-Application-Development/
 ---
 
 ## Author
+
+**Emmanuel Orunta**
