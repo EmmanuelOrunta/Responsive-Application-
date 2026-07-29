@@ -229,3 +229,5 @@ Responsive-Application-Development/
 **Emmanuel Orunta**
 
 **Student ID:** S00403657
+
+**Course:** ITEC634 – Responsive Application Development
