@@ -235,3 +235,5 @@ Australian Catholic University (ACU)
 ---
 
 ## License
+
+This repository is provided for educational and portfolio purposes.
