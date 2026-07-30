@@ -233,3 +233,5 @@ Responsive-Application-Development/
 Australian Catholic University (ACU)
 
 ---
+
+## License
